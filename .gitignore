@@ -1,0 +1,37 @@
+# Arquivos e diretórios gerados pelo Vagrant
+.vagrant/
+
+# Arquivos de log
+*.log
+
+# Chaves SSH temporárias
+*.pem
+*.pub
+
+# Arquivos de provisionamento temporários
+*.retry
+*.bak
+*.swp
+*.tmp
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*~
+*.old
+
+# Arquivos de saída de scripts ou builds locais
+output/
+build/
+tmp/
+
+# Boxes
+Boxes/*.box
+*.box

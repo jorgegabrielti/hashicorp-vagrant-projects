@@ -1,1 +1,1 @@
-# hashicorp-vagrant-projects
+# Hashicorp Vagrant Projects
