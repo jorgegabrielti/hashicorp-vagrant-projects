@@ -2,7 +2,7 @@
 # Criação de uma Vagrant Box para Sistemas Operacionais Linux **Debian like**
 
 ### Requisitos:
-- Virtualbox instlado.
+- Virtualbox instalado.
 - Máquina virtual criada.
 ---
 
